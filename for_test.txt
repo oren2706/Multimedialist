@@ -1,4 +1,4 @@
-<list_name>name="Multi - Media"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnPbOcBZRex-5HBt6jw2wn3MI9ogoRmRm9gNn_fdmjhPEUSCA"&plot="EBS הרעיון והכישרון (הבלתי נלאה) זוקף לזכות "</list_name>
+ים<list_name>name="Multi - home"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnPbOcBZRex-5HBt6jw2wn3MI9ogoRmRm9gNn_fdmjhPEUSCA"&plot="EBS הרעיון והכישרון (הבלתי נלאה) זוקף לזכות "</list_name>
 <category>
 <category_name>name="סרטים תרגום מובנה"&icon=" "&fanart="https://i.ytimg.com/vi/1mFdMZjUQAU/maxresdefault.jpg"&plot=" "&data=@@ @@</category_name>
 <category-2>
