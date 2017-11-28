@@ -673,15 +673,6 @@
 </category-2>
 </category>
 <category>
-<category_name>name="מוזיקה"&icon="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2loSfkxLZw0PYeFQBdSdKZR3NbP5_NMthrrBvxSSUfGnk77C9"&plot=" "&data=@@ @@</category_name>
-<category-2>
-<category_name-2>name="ערוצי רדיו"&icon="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYcox1pF8rOYuQ6Hvlhcnyjhsb6oyLZr89Ppa2vvYsyJv6Xnq"&plot=" "&data=@@ @@</category_name-2>
-</category-2>
-<category-2>
-<category_name-2>name="פלייליסט "&icon="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart=" "&plot=" "&data=@@ @@</category_name-2>
-</category-2>
-</category>
-<category>
 <category_name>name="Top Rated Movies"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EdVqackIL-H7MDgLhz6_pr2RL_L_r0DAvg-MqoHqGB3roK8u"&plot=" Top 250 as rated by IMDb Users"&data=@@ @@</category_name>
 <category-2>
 <item>name="חומות של תקווה"&link=" "&icon="http://image.tmdb.org/t/p/original//7DxYWkioSebwGQKL1DZHcMzrJBV.jpg"&fanart="http://image.tmdb.org/t/p/original//xBKGJQsAIeweesB79KC89FpBrVr.jpg"&plot="למרות שידו לא הייתה במעל, נשלח אנדי, בנקאי צעיר ומכובד, למאסר-עולם בעוון רצח אשתו ומאהבה. את סיפור 19 השנים הבאות אנו שומעים בקולו של רד, אסיר שחור שגם הוא נידון לתקופה ארוכה. מאסיר מושפל הופך אנדי ליועץ המס של מנהל הכלא, והתפקיד הזה מעניק לו כמה יתרונות. פרנק דרבונט מגיש סרט מהוקצע, אינטליגנטי ואירוני, כתוב היטב וצבוע בגוונים חמים."&imdbid="tt0111161"&year="1994"&data=@@{  "originaltitle": "The Shawshank Redemption (1994)",  "title": "חומות של תקווה",  "mediatype": "movie",  "heb title": "חומות של תקווה",  "genre": "Crime/Drama/דרמה/פשע",  "rating": "9",  "director": "Frank Darabont/John R. Woodward/Thomas Schellenberg/Jesse V. Johnson/Sioux Richards",  "plot": "למרות שידו לא הייתה במעל, נשלח אנדי, בנקאי צעיר ומכובד, למאסר-עולם בעוון רצח אשתו ומאהבה. את סיפור 19 השנים הבאות אנו שומעים בקולו של רד, אסיר שחור שגם הוא נידון לתקופה ארוכה. מאסיר מושפל הופך אנדי ליועץ המס של מנהל הכלא, והתפקיד הזה מעניק לו כמה יתרונות. פרנק דרבונט מגיש סרט מהוקצע, אינטליגנטי ואירוני, כתוב היטב וצבוע בגוונים חמים.",  "duration": "142",  "studios": "Castle Rock Entertainment/Warner Bros.",  "writer": "Frank Darabont/Stephen King/Pete von Sholly",  "code": "tt0111161",  "imdbnumber": "tt0111161",  "imdb": "tt0111161",  "tmdb": "278",  "votes": "1,881,132",  "dateadded": "2017-11-28 16:03:22",  "trailer": "BXUEUwwgIyU",  "poster": "http://image.tmdb.org/t/p/original//xBKGJQsAIeweesB79KC89FpBrVr.jpg",  "icon": "http://image.tmdb.org/t/p/original//7DxYWkioSebwGQKL1DZHcMzrJBV.jpg",  "year": "1994"}@@</item>
