@@ -1,4 +1,4 @@
-﻿<list_name>name="Root"&icon=" "&fanart=" "&plot=" "</list_name>
+<list_name>name="טורנטים"&icon="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTTmFb04SLjl_XHJ-vU1BDeSQ-jcFs9kFNOUys0oKhOv-YuwE"&plot="  יש להתקין את ההרחבה טורנטר בעזרת הרחבה 'מתקין ומגדיר'"</list_name>
 <category>
 <category_name>name="טורנטים"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVuTyzn7U-UDzwcmPrQ3yHsk5-APjVUpmO2219BUbvJJjdeU8"&fanart=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTTmFb04SLjl_XHJ-vU1BDeSQ-jcFs9kFNOUys0oKhOv-YuwE"&plot=" יש להתקין את ההרחבות טורנטר וקוואסר בעזרת הרחבה 'מתקין ומגדיר'"&data=@@ @@</category_name>
 <category-2>
