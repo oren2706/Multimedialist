@@ -1,4 +1,4 @@
-<list_name>name="סרטים תרגום מובנה"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QV2_32bpn8TcHkILxBDicby58UWrcOjKQcAzgdbUqaIlGnoY"&fanart="https://i.ytimg.com/vi/1mFdMZjUQAU/maxresdefault.jpg"&plot="EBS הרעיון והכישרון (הבלתי נלאה) זוקף לזכות "&lang="heb"</list_name>
+<list_name>name="סרטים תרגום מובנה"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QV2_32bpn8TcHkILxBDicby58UWrcOjKQcAzgdbUqaIlGnoY"&fanart="https://i.ytimg.com/vi/1mFdMZjUQAU/maxresdefault.jpg"&plot=" "&lang="heb"</list_name>
 <category>
 <category_name>name="סרטים תרגום מובנה"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QV2_32bpn8TcHkILxBDicby58UWrcOjKQcAzgdbUqaIlGnoY"&fanart="https://i.ytimg.com/vi/1mFdMZjUQAU/maxresdefault.jpg"&plot=" "&data=@@ @@</category_name>
 <category-2>
