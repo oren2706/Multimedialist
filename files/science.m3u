@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="educational" tvg-name="Animal_Planet_HD" ttv-logo="Animal Planet HD.png",Animal Planet HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_007df4.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Discovery_Channel_HD" ttv-logo="Discovery Channel HD.png",Discovery Channel HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_15990c.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Discovery_HD_Showcase" ttv-logo="Discovery HD Showcase.png",Discovery HD Showcase (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4302e2.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Discovery_World_!" ttv-logo="Discovery World !.png",Discovery World ! (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4dd30.acelive&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Disney_Cinemagic_HD_De" ttv-logo="Disney Cinemagic HD De.png",Disney Cinemagic HD De (movies)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8940e3.acelive&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="History_Channel_HD" ttv-logo="History Channel HD.png",History Channel HD (movies)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_afa8e7.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Nat_Geo_Wild_HD" ttv-logo="Nat Geo Wild HD.png",Nat Geo Wild HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d203c1.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="National_Geographic_Channel_HD" ttv-logo="National Geographic Channel HD.png",National Geographic Channel HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_590875.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="TLC_HD" ttv-logo="TLC HD.png",TLC HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_599c3d.acelive&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Travel_Channel_Uk" ttv-logo="Travel Channel Uk.png",Travel Channel Uk (entertaining)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3c7205.acelive&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Travel+Adventure_HD" ttv-logo="Travel+Adventure HD.png",Travel+Adventure HD (entertaining)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47bc8f.acelive&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Viasat_History_HD" ttv-logo="Viasat History HD.png",Viasat History HD (educational)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3dbebc.acelive&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Viasat_Nature-History_HD" ttv-logo="Viasat Nature-History HD.png",Viasat Nature-History HD (movies)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ddb302.acelive&.mp4

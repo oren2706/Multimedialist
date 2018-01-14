@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="music" tvg-name="0x0_Fireplace" ttv-logo="0x0 Fireplace.png",0x0 Fireplace (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_462715.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="0x0_Music" ttv-logo="0x0 Music.png",0x0 Music (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5db82c.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="1_HD" ttv-logo="1 HD.png",1 HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_57acf4.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Aurora_HD" ttv-logo="Aurora HD.png",Aurora HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_05f623.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Bridge_HD" ttv-logo="Bridge HD.png",Bridge HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41505f.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="C_Music_TV_HD" ttv-logo="C Music TV HD.png",C Music TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ac44f6.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Eska_OldsCool_TV_HD" ttv-logo="Eska OldsCool TV HD.png",Eska OldsCool TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_95f105.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Eska_Party_TV_HD" ttv-logo="Eska Party TV HD.png",Eska Party TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_86536d.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Eska_Wawa_TV_HD" ttv-logo="Eska Wawa TV HD.png",Eska Wawa TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41d102.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="KroneHIT_TV_HD" ttv-logo="KroneHIT TV HD.png",KroneHIT TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_74aae3.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_AM_HD" ttv-logo="MTV AM HD.png",MTV AM HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d0df48.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_Live_HD" ttv-logo="MTV Live HD.png",MTV Live HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_22ff7c.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_Россия_HD" ttv-logo="MTV Россия HD.png",MTV Россия HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e41981.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Mezzo_Live_HD" ttv-logo="Mezzo Live HD.png",Mezzo Live HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5830a1.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Mooz_Dance_HD" ttv-logo="Mooz Dance HD.png",Mooz Dance HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_164e6d.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Mtv_Base_Uk" ttv-logo="Mtv Base Uk.png",Mtv Base Uk (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d35c7a.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Mtv_Dance_Uk" ttv-logo="Mtv Dance Uk.png",Mtv Dance Uk (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_816f3b.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Mtv_Hits_Uk" ttv-logo="Mtv Hits Uk.png",Mtv Hits Uk (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b45fe5.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Music_Box_UA_HD" ttv-logo="Music Box UA HD.png",Music Box UA HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4898b.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="NRJ_Hits_HD" ttv-logo="NRJ Hits HD.png",NRJ Hits HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c2e9b.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="RU_TV_HD" ttv-logo="RU TV HD.png",RU TV HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cf4581.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Stingray_iConcerts_HD" ttv-logo="Stingray iConcerts HD.png",Stingray iConcerts HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a5a411.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Trace_Urban_HD" ttv-logo="Trace Urban HD.png",Trace Urban HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_30b096.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="VH1" ttv-logo="VH1.png",VH1 (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_39d5f2.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="VH1_Classic" ttv-logo="VH1 Classic.png",VH1 Classic (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_04ca63.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="XITE_HD_(NL)" ttv-logo="XITE HD (NL).png",XITE HD (NL) (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4d3daf.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="XITE_Music__HD_(GR)" ttv-logo="XITE Music  HD (GR).png",XITE Music  HD (GR) (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ac7490.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="О2ТВ_HD" ttv-logo="О2ТВ HD.png",О2ТВ HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3baf7e.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Открытый_HD" ttv-logo="Открытый HD.png",Открытый HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_62c205.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Первый_музыкальный_HD" ttv-logo="Первый музыкальный HD.png",Первый музыкальный HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_eceab5.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Первый_музыкальный_UHD" ttv-logo="Первый музыкальный UHD.png",Первый музыкальный UHD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_63bd40.acelive&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Первый_музыкальный_Россия_HD" ttv-logo="Первый музыкальный Россия HD.png",Первый музыкальный Россия HD (music)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c40818.acelive&.mp4
