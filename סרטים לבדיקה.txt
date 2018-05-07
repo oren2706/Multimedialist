@@ -1,0 +1,19 @@
+﻿<list_name>name="סרטים לבדיקה"&icon=" "&fanart=" "&plot=" "&lang="heb"</list_name>Root
+<category>
+<category_name>name="ישראליים"&icon=" "&fanart=" "&plot=" "&data=@@ @@</category_name>
+<category-2>
+<item>name="זכרון דברים"&link="https://uptobox.com/cbtpyrhwgqcj"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":"זכרון דברים","Season": " ","Episode": " ","originaltitle": "זכרון דברים","year": "","dateadded": "2018-05-7 09:14:03","plot": "","heb title": "זכרון דברים","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": "","imdbnumber": "","imdb": "","tmdb": " ","votes": " ","trailer": " ","poster": "","icon": ""}@@</item>
+</category-2>
+<category-2>
+<item>name=" זוהי סדום"&link=" https://uptobox.com/1ll3py6vdw3a"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" זוהי סדום","Season": " ","Episode": " ","originaltitle": " זוהי סדום","year": " ","dateadded": "2018-05-7 09:15:20","plot": " ","heb title": " זוהי סדום","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item>
+</category-2>
+<category-2>
+<item>name=" זוהר"&link=" https://uptobox.com/9110bohyna99"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" זוהר","Season": " ","Episode": " ","originaltitle": " זוהר","year": " ","dateadded": "2018-05-7 09:16:05","plot": " ","heb title": " זוהר","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item>
+</category-2>
+<category-2>
+<item>name=" זמן אמת"&link=" https://uptobox.com/6959lv5mh9gd"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" זמן אמת","Season": " ","Episode": " ","originaltitle": " זמן אמת","year": " ","dateadded": "2018-05-7 09:16:40","plot": " ","heb title": " זמן אמת","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item>
+</category-2>
+<category-2>
+<item>name=" אפס סובלנות"&link=" https://uptobox.com/3wwcjf8t41xx"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" אפס סובלנות","Season": " ","Episode": " ","originaltitle": " אפס סובלנות","year": " ","dateadded": "2018-05-7 09:17:38","plot": " ","heb title": " אפס סובלנות","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item>
+</category-2>
+</category>
