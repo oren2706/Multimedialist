@@ -1151,6 +1151,6 @@ year_cat="False" #לפני שנים
 a_b_cat="False" # לפי א-ב 
 ranking_cat="False" #לפי דירוג
  all_m_cat="False" #כל הסרטים
-cat_chan="False" #ערוצי צפייה 
-add_res="True" # התווספו לאחרונה
+cat_chan="True" #ערוצי צפייה 
+add_res="False" # התווספו לאחרונה
 </additional settings>
